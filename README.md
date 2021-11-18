@@ -1,5 +1,5 @@
 # Human Activity Recognition
 ### Two approaches:
-Static: Pictures
+Static: Pictures (Deep learning methodology)
 
-Dynamic: Smartphone sensor data
+Dynamic: Smartphone sensor data (Machine learning methodology)
