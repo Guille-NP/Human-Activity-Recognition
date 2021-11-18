@@ -2,4 +2,4 @@
 ### Two approaches:
 Static: Pictures
 
-Dynamic: Smartphone sensors data
+Dynamic: Smartphone sensor data
