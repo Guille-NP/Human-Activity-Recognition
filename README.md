@@ -3,7 +3,7 @@
 ### Datasets used
 - MPII Human Pose Dataset
 - UCI Human Activity Recognition Using Smartphones Data Set
-- 
+
 ### Two approaches:
 - Static: Pictures (Deep learning methodology)
 - Dynamic: Smartphone sensor data (Machine learning methodology)
