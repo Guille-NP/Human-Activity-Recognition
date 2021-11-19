@@ -1,6 +1,6 @@
 # Human Activity Recognition
 
-### Datasets used 🗒️
+### Datasets used 📝
 - MPII Human Pose Dataset
 - UCI Human Activity Recognition Using Smartphones Data Set
 
